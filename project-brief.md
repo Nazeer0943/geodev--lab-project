@@ -11,9 +11,9 @@ Therefore, if this project is completed, the results can be used by the GOVT and
 GRID3 health facilities, GRID3 ward boundaries, OSM roads.
 
 ## Sources of the Data Sets
-Nigeria Health Facilities; this is the list of all the health facilities available in Nigeria. It comes in CSV format, 13.6MB, and it  is available in an open data source; it can be found on GRID3 through the link here: GRID3 health facilities
-Nigeria ward boundaries: this is the list of all the wards in Nigeria, comes in .shapefiles, also available in an open data source; it can be found on GRID3 through the link here: GRID3 ward boundaries
-Roads: these are to be extracted through an OSM plugin/extension; it is also available and can be  downloaded through QGIS
+- [Nigeria Health Facilities](https://data.grid3.org/datasets/827e3638dc204f4b9ddbbd19b00954d6/about); this is the list of all the health facilities available in Nigeria. It comes in CSV format, 13.6MB, and it  is available in an open data source; it can be found on GRID3 through the link here: GRID3 health facilities
+- [Nigeria ward boundaries](https://data.grid3.org/datasets/GRID3::grid3-nga-operational-wards-v3-0/about): this is the list of all the wards in Nigeria, comes in shapefiles and is also available in an open data source; it can be found on GRID3 through the link here: GRID3 ward boundaries
+- Roads: these are to be extracted through an OSM plugin/extension; it is also available and can be  downloaded through QGIS
 
 
 ## What I am planning to build;
