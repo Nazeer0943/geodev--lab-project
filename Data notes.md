@@ -36,3 +36,7 @@ Downloaded: 9/13/2026
 ### All layers clipped to study area, then reprojected to EPSG:32632 (UTM 32N)
 - Area check: Dutsi LGA 370 km2, matches published figure
 - Working files in data/processed/, raw files untouched
+
+
+
+- I reprojected my LGA, which is Dutsi LGA, from the GRID3 LGAs data; it was in 4326 before it was reprojected to UTM 32632 (32) because Katsina is around eastend nd central parts of the country. I initially got null across all rows for the area field, but after it was reprojected, it worked. 
